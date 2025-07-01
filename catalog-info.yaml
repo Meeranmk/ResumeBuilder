@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Resumebuilder
+  description: Using this software you can genrate the resume
+  labels:
+    example.com/custom: custom_label_value
+  tags:
+    - javascript
+  links:
+    - url: https://admin.example-org.com
+      title: Resume Builder
+      icon: dashboard
+      type: admin-dashboard
+spec:
+  type: website
+  lifecycle: Development
+  owner: meeran
+  system: public-websites
