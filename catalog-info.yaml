@@ -5,7 +5,7 @@ metadata:
   description: Using this software you can genrate the resume
   annotations:
         backstage.io/techdocs-ref: dir:.
-        github.com/project-slug: Meeranmk/backstag
+        github.com/project-slug: pep8speaks-org/pep8speaks
   labels:
     example.com/custom: custom_label_value
   tags:
