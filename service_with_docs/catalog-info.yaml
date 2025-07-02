@@ -7,7 +7,7 @@ metadata:
         backstage.io/techdocs-ref: dir:.
         github.com/project-slug: pep8speaks-org/pep8speaks
     tags:
-        - python
+        - javascript
     links:
         - url: https://admin.example-org.com
           title: Admin Dashboard
@@ -26,5 +26,5 @@ metadata:
     name: project-x
     description: Handy tools to keep artists in the loop
 spec:
-    owner: artist-relations-team
+    owner: meeran
     domain: artists
