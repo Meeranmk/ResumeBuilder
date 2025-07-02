@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: Resumebuilder
   description: Using this software you can genrate the resume
+  annotations:
+        backstage.io/techdocs-ref: dir:.
   labels:
     example.com/custom: custom_label_value
   tags:
