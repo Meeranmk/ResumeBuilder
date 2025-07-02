@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-    name: a-python-library
-    description: A Python Library
+    name: a-javascript-library
+    description: A javascript Library
     annotations:
         backstage.io/techdocs-ref: dir:.
         github.com/project-slug: pep8speaks-org/pep8speaks
@@ -15,8 +15,8 @@ metadata:
           type: admin-dashboard
 spec:
     type: service
-    lifecycle: production
-    owner: idpadmins
+    lifecycle: development
+    owner: meeran
     system: project-x
 
 ---
