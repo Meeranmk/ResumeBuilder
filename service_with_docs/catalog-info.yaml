@@ -26,5 +26,6 @@ metadata:
     name: project-x
     description: Handy tools to keep artists in the loop
 spec:
+  owner: meeran
   type: url
   target: https://github.com/pep8speaks-org/pep8speaks/blob/main/catalog-info.yaml
