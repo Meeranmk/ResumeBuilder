@@ -28,4 +28,4 @@ metadata:
 spec:
   owner: meeran
   type: url
-  target: https://github.com/pep8speaks-org/pep8speaks/blob/main/catalog-info.yaml
+  target: https://github.com/Meeranmk/ResumeBuilder/blob/main/service_with_docs/catalog-info.yaml
