@@ -22,12 +22,4 @@ spec:
     
 
 ---
-apiVersion: backstage.io/v1alpha1
-kind: Location
-metadata:
-    name: project-x
-    description: Handy tools to keep artists in the loop
-spec:
-  owner: meeran
-  type: url
-  target: https://github.com/Meeranmk/ResumeBuilder/blob/main/service_with_docs/catalog-info.yaml
+
