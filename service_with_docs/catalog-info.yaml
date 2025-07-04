@@ -18,7 +18,7 @@ spec:
     lifecycle: development
     owner: meeran
     system: project-x
-    target: https://github.com/Meeranmk/ResumeBuilder/blob/main/service_with_docs/catalog-info.yaml
+    
     
 
 ---
