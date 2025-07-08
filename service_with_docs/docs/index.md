@@ -1,1 +1,1 @@
-Hello world
+simple web-based resume builder using HTML, JavaScript, and Tailwind CSS. It allows users to input their personal details, education, experience, and skills, then generates a formatted resume that can be downloaded as a PDF.
