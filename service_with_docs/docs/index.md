@@ -1,1 +1,1 @@
-simple web-based resume builder using HTML, JavaScript, and Tailwind CSS. It allows users to input their personal details, education, experience, and skills, then generates a formatted resume that can be downloaded as a PDF.
+A widely-used library for building fast, interactive user interfaces, especially single-page applications. It’s component-based, open-source, and often considered a framework due to its extensive ecosystem for routing and state management. Ideal for dynamic front-end development.
