@@ -3,6 +3,8 @@ kind: API
 metadata:
   name: artist-api
   description: Retrieve artist details
+  links:
+     https://gist.githubusercontent.com/lenage/08964335de9064540c8c335fb849c5da/raw/6d63e3546897356882ed7e30cd48891a24e2b354/feature.swagger.json
 spec:
   type: openapi
   lifecycle: production
