@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-    name: Javascipt library
+    name: Javascipt-library
     description: A javascript Library
     annotations:
         backstage.io/techdocs-ref: dir:.
