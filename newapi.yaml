@@ -1,13 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: artist-api
-  description: Retrieve artist details
+  name: meta-api
+  description: Retrieve meta api details
 spec:
   type: openapi
-  lifecycle: production
-  owner: artist-relations-team
-  system: artist-engagement-portal
+  lifecycle: development
+  owner: meeran
+  system: meta
   definition: |
     openapi: "3.0.0"
     info:
