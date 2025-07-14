@@ -14,7 +14,7 @@ metadata:
     - url: https://github.com/Meeranmk/ResumeBuilder
       title: Resume Builder
       icon: dashboard
-      type: admin-dashboar
+      type: admin-dashboard
 spec:
   type: website
   lifecycle: Development
