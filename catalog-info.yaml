@@ -6,6 +6,7 @@ metadata:
   annotations:
         backstage.io/techdocs-ref: dir:.
         github.com/project-slug: pep8speaks-org/pep8speaks
+        datadoghq.com/dashboard-url: 
         
   labels:
     example.com/custom: custom_label_value
